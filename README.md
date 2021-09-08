@@ -1,4 +1,3 @@
-<img align ="centre" src="https://unsplash.com/photos/mRMQwK513hY">
 <h1 align="center">Hi 👋, I'm Yash Mudgal</h1>
 <h3 align="center">A passionate Programmer and Full Stack Web Developer</h3>
 
