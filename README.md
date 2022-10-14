@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Mudgal</h1>
-<h3 align="center">A Passionate Programmer and Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Programmer, Full Stack Web Developer and Data Analyst Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmudgal05&label=Profile%20views&color=0e75b6&style=flat" alt="yashmudgal05" /> </p>
 
@@ -17,8 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashmudgal05&show_icons=true&locale=en&layout=compact" alt="yashmudgal05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmudgal05&show_icons=true&locale=en" alt="yashmudgal05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmudgal05&" alt="yashmudgal05" /></p>
 
 
 
